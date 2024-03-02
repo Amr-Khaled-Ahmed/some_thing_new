@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amr khaled
 - 👀 I am interested in the field of cybersecurity and software design
 - 🌱 I'm currently learning c++ and python programing languages
-
-  
+- In this repositories I will upload different projects edited by python with my way to learn software programming.
+- The programs that I will upload can be games, programs or anything you can imagine and it may be new or old. 
